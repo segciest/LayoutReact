@@ -18,7 +18,7 @@ const BodyItem = () => {
             width: "50px",
             height: "50px",
             position: "absolute",
-            top: "-15%",
+            top: "-12%",
             left: "50%",
             transform: "translate(-50%,0)",
           }}
@@ -53,13 +53,13 @@ const BodyItem = () => {
             width: "50px",
             height: "50px",
             position: "absolute",
-            top: "-15%",
+            top: "-12%",
             left: "50%",
             transform: "translate(-50%,0)",
           }}
         >
           <i
-            class="fa-solid fa-layer-group flex justify-center"
+            class="fa-solid fa-download flex justify-center"
             style={{ alignItems: "center", color: "white", height: "100%" }}
           ></i>
         </div>
@@ -88,13 +88,13 @@ const BodyItem = () => {
             width: "50px",
             height: "50px",
             position: "absolute",
-            top: "-15%",
+            top: "-12%",
             left: "50%",
             transform: "translate(-50%,0)",
           }}
         >
           <i
-            class="fa-solid fa-layer-group flex justify-center"
+            class="fa-solid fa-boxes-packing flex justify-center"
             style={{ alignItems: "center", color: "white", height: "100%" }}
           ></i>
         </div>
@@ -123,13 +123,13 @@ const BodyItem = () => {
             width: "50px",
             height: "50px",
             position: "absolute",
-            top: "-15%",
+            top: "-12%",
             left: "50%",
             transform: "translate(-50%,0)",
           }}
         >
           <i
-            class="fa-solid fa-layer-group flex justify-center"
+            class="fa-solid fa-book flex justify-center"
             style={{ alignItems: "center", color: "white", height: "100%" }}
           ></i>
         </div>
@@ -158,13 +158,13 @@ const BodyItem = () => {
             width: "50px",
             height: "50px",
             position: "absolute",
-            top: "-15%",
+            top: "-12%",
             left: "50%",
             transform: "translate(-50%,0)",
           }}
         >
           <i
-            class="fa-solid fa-layer-group flex justify-center"
+            class="fa-solid fa-code flex justify-center"
             style={{ alignItems: "center", color: "white", height: "100%" }}
           ></i>
         </div>
@@ -193,13 +193,13 @@ const BodyItem = () => {
             width: "50px",
             height: "50px",
             position: "absolute",
-            top: "-15%",
+            top: "-12%",
             left: "50%",
             transform: "translate(-50%,0)",
           }}
         >
           <i
-            class="fa-solid fa-layer-group flex justify-center"
+            class="fa-solid fa-circle-check flex justify-center"
             style={{ alignItems: "center", color: "white", height: "100%" }}
           ></i>
         </div>

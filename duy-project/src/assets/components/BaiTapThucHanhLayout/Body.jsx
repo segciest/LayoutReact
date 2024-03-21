@@ -11,7 +11,7 @@ const Body = () => {
       >
         <BodyBanner />
       </div>
-      <div className="bodyContent grid grid-cols-2 grid-rows-3 mt-10 mx-5 gap-5 mb-7">
+      <div className="bodyContent grid lg:grid-cols-3 lg:grid-rows-2 md:grid-cols-2 md:grid-rows-3 sm:grid-cols-1 sm:grid-rows-1 mt-10 mx-5 gap-5 mb-7">
         <BodyItem />
       </div>
     </div>
